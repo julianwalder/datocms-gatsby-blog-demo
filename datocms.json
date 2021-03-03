@@ -6,6 +6,6 @@
   "deploymentType": "static",
   "buildCommand": "npm run build",
   "buildDirectory": "public",
-  "datocmsApiTokenEnvName": "DATO_API_TOKEN",
+  "datocmsApiTokenEnvName": "7eb720281fce5484df8fd020d4101b",
   "livePreviewUrl": "https://datocms-gatsby-blog-demo.netlify.app"
 }
